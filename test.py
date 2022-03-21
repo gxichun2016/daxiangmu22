@@ -8,4 +8,4 @@ if right_this_minute in odds:
     print("This minute seems a little odd.")
 else:
     print("Not an odd minute.")
-print("hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh666")
+print("hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh66444444444444444444444444446")
